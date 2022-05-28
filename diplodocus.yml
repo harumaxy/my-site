@@ -1,0 +1,18 @@
+sourceDir: pages
+lang: jp
+siteName: Harumaxy's blog
+description: tech blog
+twitter: maxy8653
+navLinks:
+  - title: home
+    path: /
+  - title: about
+    path: /about
+  - title: blog
+    path: /blog
+      
+listPages:
+  - path: /blog
+    title: blog
+
+tocLevels: [2, 3]
