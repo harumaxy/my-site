@@ -50,7 +50,7 @@ Serverless Function (Edge computing) による SSR ということ。
 
 一般的な Object Storage + CDN という一般的なサイト配信に対して、SSRの計算コスト分レスポンスが遅くなるのではないかと思ったが、
 
-[![Image from Gyazo](https://i.gyazo.com/1ffb303391149c701c885cd37e52539d.png)](https://i.gyazo.com/1ffb303391149c701c885cd37e52539d.png)
+![Image from Gyazo](https://i.gyazo.com/1ffb303391149c701c885cd37e52539d.png)
 
 Light House はかなり良い  
 (まだページコンテンツが少ないからかもしれないけど)

@@ -1,8 +1,8 @@
 {
   "filters": {
-      "comments": true
+    "comments": true
   },
-    "rules": {
-        "preset-ja-technical-writing": true
-    }
+  "rules": {
+    "preset-ja-technical-writing": true
+  }
 }
