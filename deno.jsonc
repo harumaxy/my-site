@@ -1,6 +1,6 @@
 {
   "tasks": {
     "dev": "deno run -A --watch --unstable server.ts",
-    "gen": "deno run -A --unstable gen-blog.ts"
+    "gen": "deno run --allow-write gen-blog.ts"
   }
 }
