@@ -90,3 +90,4 @@ Qiitaとか読むと、色々と比較記事あるけどさ([これ](https://qii
 
 オレのオススメは断然TypeScript<br>
 JavaScriptから入るのも可(JSはTSのサブセットだから、移るのが楽)
+
